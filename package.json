@@ -1,0 +1,22 @@
+{
+  "name": "trc-aquabot",
+  "version": "1.0.0",
+  "description": "A cool messenger bot",
+  "main": "fb_messenger_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katrin-krieger/trc-aquabot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Katrin Krieger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katrin-krieger/trc-aquabot/issues"
+  },
+  "homepage": "https://github.com/katrin-krieger/trc-aquabot#readme"
+}
